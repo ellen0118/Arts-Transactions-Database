@@ -1,2 +1,2 @@
 # Arts-Transactions-Database
-A database that stores the information of artists and the artworks they created.
+It stores the information of artists and artist's artworks. It also allows the user to manage certain parts of the information.
